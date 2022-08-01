@@ -13,4 +13,6 @@
 
 ## Deployment
 
-Link to the page: [Convert Case](https://guilhermerocha0.github.io/convert-case/)
+<p>Link to the page: 
+<a href="https://guilhermerocha0.github.io/convert-case/" target="_blank">Convert Case</a>
+</p>
